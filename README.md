@@ -1,4 +1,4 @@
-# ClickandGather
+# Click and Gather
 
 This short gathering game has the following.
 
